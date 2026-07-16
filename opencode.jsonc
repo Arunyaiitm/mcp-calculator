@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "calculator": {
+      "type": "local",
+      "command": ["npx", "tsx", "src/server-runner.ts"],
+      "cwd": "/Users/arunyahooda/Documents/Default Project/mcp-calculator"
+    }
+  }
+}
+
